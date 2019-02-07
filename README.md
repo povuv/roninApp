@@ -1,2 +1,2 @@
 # roninApp
-PHP web aplication with local Json storage
+PHP local Json storage web application
